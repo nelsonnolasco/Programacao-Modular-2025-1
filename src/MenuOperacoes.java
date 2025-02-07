@@ -1,5 +1,12 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+/*
+ Elabore um sistema que mostre o seguinte menu na tela e realize suas ações:
+1 - Somar dois números
+2 - O maior de dois números
+3 - Somar N números
+4 - Contador de pares de uma sequência
+0 - Sair
+Opção:
+ */
 import java.util.Scanner;
 
 public class MenuOperacoes {

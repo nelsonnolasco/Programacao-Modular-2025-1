@@ -1,3 +1,16 @@
+/*
+Crie agora um programa que recebe uma string criptografada com o método descrito na questão anterior e
+retorne uma string "simples" com a mensagem original.
+Questão anterior abaixo:
+Crie um programa que embaralha ("criptografa") uma string usando o seguinte algoritmo: a string é reescrita
+em blocos de 5 caracteres, sendo as novas palavras obtidas lendo-se cada coluna resultante, separadas por
+asteriscos. Por exemplo, se a string for "mensagem secreta":
+mensa
+gem s
+ecret
+a
+A criptografia retorna "mgea*eec *nmr*s e *ast *" (atenção para os espaços em branco).
+ */
 import java.util.Scanner;
 
 public class StringDescriptografar {
